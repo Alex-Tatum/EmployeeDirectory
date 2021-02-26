@@ -10,7 +10,7 @@
 An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
 
 ## ScreenShots
-![Alt text](src\Components\Images\Screenshot (26).png?raw=true "Optional Title")
+![Alt text](src/images/Screenshot (26).png)
 
 # Getting Started with Create React App
 
